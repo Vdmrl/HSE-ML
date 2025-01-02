@@ -1,1 +1,1 @@
-HSE Machine Learning 1 Project
+HSE Machine Learning Projects
